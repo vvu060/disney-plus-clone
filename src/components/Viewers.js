@@ -50,7 +50,7 @@ const Container = styled.div`
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
   grid-gap: 25px;
-  gap: 25px;
+  gap: 26px;
 `;
 
 const Wrap = styled.div`
